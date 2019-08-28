@@ -2201,7 +2201,7 @@ rc@^1.2.7:
 
 react-ym@zloyrusskiy/react-ym#master:
   version "1.0.0"
-  resolved "https://codeload.github.com/zloyrusskiy/react-ym/tar.gz/a49e2fadfe920f2c3f8ff9807e2da664d6891596"
+  resolved "https://codeload.github.com/zloyrusskiy/react-ym/tar.gz/035cbda49727af897417a41baec0d12578f0d58d"
 
 readable-stream@^2.0.2, readable-stream@^2.0.6:
   version "2.3.6"
