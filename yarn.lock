@@ -2199,10 +2199,9 @@ rc@^1.2.7:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
-react-ym@^0.0.7:
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/react-ym/-/react-ym-0.0.7.tgz#496c9ea5f6644b40bc264b38d72d6501a9687e93"
-  integrity sha1-SWyepfZkS0C8Jks41y1lAalofpM=
+react-ym@zloyrusskiy/react-ym#master:
+  version "1.0.0"
+  resolved "https://codeload.github.com/zloyrusskiy/react-ym/tar.gz/a49e2fadfe920f2c3f8ff9807e2da664d6891596"
 
 readable-stream@^2.0.2, readable-stream@^2.0.6:
   version "2.3.6"
