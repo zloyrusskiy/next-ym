@@ -2,8 +2,8 @@ import debug from "debug";
 
 const log = debug("analytics");
 
-export function init(code) {
-  log(`Analytics init triggered for ${code}`);
+export function init(code, options, version) {
+  log('Analytics init triggered for %s with options %o and version %d', code, options, version);
 }
 
 export function pageview() {

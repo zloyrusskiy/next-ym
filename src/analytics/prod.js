@@ -4,11 +4,11 @@ const IS_BROWSER = typeof window !== "undefined";
 
 let key;
 
-export function init(code) {
+export function init(code, options, version) {
   key = `yaCounter${code}`;
 
   if (IS_BROWSER && !window[key] && code) {
-    ym.initialize(code);
+    ym.initialize(code, options, version);
   }
 }
 
